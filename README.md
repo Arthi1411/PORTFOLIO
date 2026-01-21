@@ -1,2 +1,20 @@
-# CODSOFT
-This repository contains my web development internship tasks for CODSOFT.   Level 1 Projects – Portfolio Website. 
+# Portfolio Website
+
+A personal portfolio website showcasing my projects, skills, and resume.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- About me section
+- Projects section
+- Contact section
+- Resume download
+
+## Live Demo
+(Add GitHub Pages link here)
+
+## Screenshots
+![Portfolio Screenshot](assets/images/BG.jpeg)
